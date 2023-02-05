@@ -1,0 +1,22 @@
+
+.banner{
+    height:520px;
+    
+}
+.banner_content{
+    padding-top: 300px;
+    margin-left: 1.5rem;
+    height: 200px;
+    background-color: transparent;
+    
+}
+.banner_title{
+    background-color: transparent;
+
+
+}
+.banner_overview{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: transparent;
+    max-width: 460px;
+}
