@@ -1,15 +1,18 @@
 .logo{
     width:200px;
-    
-    
+     
 }
 
 .nav{
     position: fixed;
     top: 0;
     width:100%;
-    padding: 20px;
+    padding: 10px;
     display: flex;
-    background-color: transparent;
     z-index: 1;
+}
+.nav-black{
+    background-color: black;
+    padding: 0;
+    
 }
